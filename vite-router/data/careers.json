@@ -1,0 +1,280 @@
+{
+    "careers": [
+        {
+            "id": 1,
+            "title": "MIS Engineer",
+            "salary": "NT50000 ~ 75000 per month",
+            "location": "Taipei, TW",
+            "details": {
+                "text": "We are seeking a skilled and experienced MIS Engineer to join our team and support our critical IT infrastructure. As an MIS Engineer, you will play a vital role in maintaining and enhancing our systems, ensuring optimal performance and reliability.",
+                "contents": [
+                    "Installing, configuring, and maintaining hardware and software systems",
+                    "Troubleshooting and resolving technical issues",
+                    "Monitoring network performance and security",
+                    "Implementing and maintaining IT policies and procedures",
+                    "Providing technical support to end-users"
+                ],
+                "qualifications": [
+                    "Bachelor's degree in Computer Science, Information Technology, or a related field",
+                    "2+ years of experience in MIS or a similar technical role",
+                    "Strong understanding of computer hardware and software systems",
+                    "Proficiency in Windows Server and Active Directory",
+                    "Familiarity with network protocols and security technologies",
+                    "Excellent problem-solving and troubleshooting skills",
+                    "Exceptional communication and interpersonal skills"
+                ],
+                "benefits": [
+                    "Competitive salary and benefits package",
+                    "Opportunity to work with cutting-edge technology",
+                    "Collaborative and supportive work environment",
+                    "Room for professional growth and development"
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "title": "Full-Stack Developer",
+            "salary": "NT60000 ~ 80000 per month",
+            "location": "Taipei, TW",
+            "details": {
+                "text": "We are seeking a talented and experienced Full-Stack Developer to join our team and build innovative web applications. As a Full-Stack Developer, you will be responsible for designing, developing, and maintaining both the front-end and back-end of our applications.",
+                "contents": [
+                    "Designing and developing user interfaces using HTML, CSS, and JavaScript",
+                    "Building and maintaining scalable and secure server-side applications using Node.js, React, or other popular frameworks",
+                    "Collaborating with designers and product managers to understand user needs and translate them into functional applications",
+                    "Optimizing application performance and resolving technical issues",
+                    "Staying up-to-date with the latest web development technologies and trends"
+                ],
+                "qualifications": [
+                    "Bachelor's degree in Computer Science, Software Engineering, or a related field",
+                    "2+ years of experience in full-stack development",
+                    "Proficiency in HTML, CSS, JavaScript, and a server-side framework like Node.js, React, or Django",
+                    "Experience with databases like MySQL, PostgreSQL, or MongoDB",
+                    "Excellent problem-solving and debugging skills",
+                    "Strong communication and teamwork abilities"
+                ],
+                "benefits": [
+                    "Competitive salary and benefits package",
+                    "Opportunity to work on cutting-edge web technologies",
+                    "Chance to make a significant impact on the company's products",
+                    "Room for professional growth and advancement"
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "title": "Machine Learning Engineer",
+            "salary": "NT60000 ~ 80000 per month",
+            "location": "Taipei, TW",
+            "details": {
+                "text": "We are seeking an experienced Machine Learning Engineer to join our team and develop intelligent solutions for our business problems. As a Machine Learning Engineer, you will be responsible for applying machine learning algorithms to solve complex problems, such as data analysis, prediction, and pattern recognition.",
+                "contents": [
+                    "Gathering, cleaning, and preparing data for machine learning models",
+                    "Developing and training machine learning models using Python, TensorFlow, or other popular libraries",
+                    "Evaluating and optimizing machine learning models for accuracy and performance",
+                    "Integrating machine learning models into production systems",
+                    "Monitoring and maintaining machine learning models to ensure their effectiveness"
+                ],
+                "qualifications": [
+                    "Master's degree in Computer Science, Machine Learning, or a related field",
+                    "2+ years of experience in machine learning engineering",
+                    "Strong understanding of machine learning algorithms and techniques",
+                    "Proficiency in Python, TensorFlow, or other popular machine learning libraries",
+                    "Experience with data analysis and data mining techniques",
+                    "Excellent problem-solving and analytical skills",
+                    "Strong communication and collaboration skills"
+                ],
+                "benefits": [
+                    "Competitive salary and benefits package",
+                    "Opportunity to work on cutting-edge machine learning projects",
+                    "Chance to make a significant impact on the company's products and services",
+                    "Room for professional growth and advancement"
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "title": "Ads Optimizer",
+            "salary": "NT35000 ~ 50000 per month",
+            "location": "Taipei, TW",
+            "details": {
+                "text": "We are seeking a skilled and experienced Ads Optimizer to join our team and manage our online advertising campaigns. As an Ads Optimizer, you will be responsible for developing and implementing effective advertising strategies to drive traffic and conversions.",
+                "contents": [
+                    "Researching and analyzing target audience preferences and behaviors",
+                    "Creating and managing advertising campaigns across various platforms, such as Google Ads, Facebook Ads, and LinkedIn Ads",
+                    "Optimizing ad campaigns based on performance data and analytics",
+                    "Tracking and reporting on ad campaign results",
+                    "Collaborating with marketing and sales teams to achieve overall marketing goals"
+                ],
+                "qualifications": [
+                    "Bachelor's degree in Marketing, Business Administration, or a related field",
+                    "2+ years of experience in online advertising or a similar marketing role",
+                    "Strong understanding of digital marketing principles and practices",
+                    "Proficiency in Google Ads, Facebook Ads, and other major advertising platforms",
+                    "Excellent analytical and problem-solving skills",
+                    "Exceptional communication and teamwork abilities"
+                ],
+                "benefits": [
+                    "Competitive salary and benefits package",
+                    "Opportunity to work with cutting-edge marketing technologies",
+                    "Chance to make a significant impact on the company's online advertising success",
+                    "Room for professional growth and advancement"
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "title": "Content Marketing Intern",
+            "salary": "NT190 per hour",
+            "location": "Taipei, TW per Online",
+            "details": {
+                "text": "We are seeking an enthusiastic and creative Content Marketing Intern to join our team and help us create engaging and informative content for our blog, website, and social media channels. As a Content Marketing Intern, you will have the opportunity to gain valuable experience in content creation, marketing, and social media management.",
+                "contents": [
+                    "Conducting research and gathering information on various topics",
+                    "Writing blog posts, articles, and social media content",
+                    "Optimizing content for search engines",
+                    "Promoting content on social media and other online channels",
+                    "Monitoring content performance and analyzing results"
+                ],
+                "qualifications": [
+                    "Currently pursuing a Bachelor's degree in Marketing, Communications, or a related field",
+                    "Excellent writing and editing skills",
+                    "Strong understanding of search engine optimization (SEO) and social media marketing",
+                    "Familiarity with content management systems (CMS) like WordPress or Drupal",
+                    "Creative and resourceful with a passion for digital marketing"
+                ],
+                "benefits": [
+                    "Gain valuable hands-on experience in content marketing",
+                    "Work with a dynamic and experienced marketing team",
+                    "Opportunity to contribute to the growth and success of a growing company",
+                    "Flexible work arrangement (in-office or remote)"
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "title": "Compaign Planner",
+            "salary": "NT30000 ~ 50000 per month",
+            "location": "Taipei, TW",
+            "details": {
+                "text": "We are seeking a strategic and creative Campaign Planner to join our team and develop effective marketing campaigns. As a Campaign Planner, you will be responsible for crafting and executing campaigns that achieve our marketing goals and drive business growth.",
+                "contents": [
+                    "Analyzing market trends and competitor activities to identify opportunities",
+                    "Developing comprehensive campaign plans that align with overall marketing strategies",
+                    "Selecting the right marketing channels and tactics to reach target audiences",
+                    "Creating and managing campaign budgets",
+                    "Measuring campaign performance and making data-driven decisions to optimize results",
+                    "Collaborating with marketing and creative teams to ensure campaign consistency",
+                    "Staying up-to-date with the latest marketing trends and technologies"
+                ],
+                "qualifications": [
+                    "Bachelor's degree in Marketing, Communications, or a related field",
+                    "1+ years of experience in campaign planning and marketing execution",
+                    "Strong understanding of marketing principles and campaign methodologies",
+                    "Proficiency in marketing analytics and data analysis tools",
+                    "Experience with various marketing channels, including social media, email marketing, and paid advertising",
+                    "Excellent project management and organizational skills",
+                    "Creative problem-solving and critical thinking abilities",
+                    "Exceptional communication and presentation skills"
+                ],
+                "benefits": [
+                    "Competitive salary and benefits package",
+                    "Opportunity to work on a variety of marketing campaigns",
+                    "Chance to make a significant impact on the company's brand and growth",
+                    "Room for professional growth and advancement"
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "title": "Sales Manager",
+            "salary": "NT60000 ~ 80000 per month",
+            "location": "Taipei, TW",
+            "details": {
+                "text": "We are seeking an experienced and driven Sales Manager to join our team and lead our sales efforts to achieve ambitious targets. As a Sales Manager, you will be responsible for developing and implementing a strategic sales plan, managing and motivating a team of sales representatives, and closing deals to drive revenue growth.",
+                "contents": [
+                    "Developing and executing a comprehensive sales strategy aligned with company goals",
+                    "Recruiting, hiring, and training a high-performing sales team",
+                    "Coaching and mentoring sales representatives to achieve their individual and team targets",
+                    "Managing and monitoring sales pipelines and performance metrics",
+                    "Negotiating and closing deals with clients to secure new business",
+                    "Building and maintaining strong relationships with key decision-makers",
+                    "Analyzing market trends and adapting sales strategies accordingly"
+                ],
+                "qualifications": [
+                    "Bachelor's degree in Business Administration, Marketing, or a related field",
+                    "4+ years of experience in sales management or a similar role",
+                    "Proven track record of success in achieving sales targets",
+                    "Strong understanding of sales methodologies and negotiation techniques",
+                    "Excellent communication and presentation skills",
+                    "Ability to motivate and inspire a team to achieve their best",
+                    "Data-driven approach to sales analysis and decision-making"
+                ],
+                "benefits": [
+                    "Competitive salary and comprehensive benefits package",
+                    "Opportunity to lead a team of talented sales professionals",
+                    "Chance to make a significant impact on the company's revenue growth",
+                    "Room for professional advancement and career development"
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "title": "E-commerce Account Manager",
+            "salary": "NT35000 ~ 55000 per month",
+            "location": "Taipei, TW",
+            "details": {
+                "contents": [
+                    "Developing and implementing e-commerce account strategies to drive sales and customer growth",
+                    "Managing and analyzing e-commerce account performance data to identify opportunities for improvement",
+                    "Optimizing product listings and pricing to enhance visibility and conversion rates",
+                    "Building and maintaining relationships with e-commerce platforms and partners",
+                    "Handling customer inquiries and resolving issues to ensure customer satisfaction"
+                ],
+                "qualifications": [
+                    "Bachelor's degree in Marketing, Business Administration, or a related field",
+                    "1+ years of experience in e-commerce account management or a similar role",
+                    "Strong understanding of e-commerce platforms, marketplaces, and marketing channels",
+                    "Proficiency in data analysis and reporting tools",
+                    "Excellent communication and negotiation skills",
+                    "Ability to work independently and as part of a team"
+                ],
+                "benefits": [
+                    "Competitive salary and benefits package",
+                    "Opportunity to work in a dynamic and fast-paced environment",
+                    "Chance to make a significant impact on the company's e-commerce success",
+                    "Room for professional growth and advancement"
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "title": "E-commerce Account Assistant",
+            "salary": "NT30000 ~ 45000 per month",
+            "location": "Taipei, TW",
+            "details": {
+                "text": "We are seeking a dedicated and organized E-commerce Account Assistant to join our team and manage our online store operations. As an E-commerce Account Assistant, you will be responsible for assisting in managing product listings, handling customer inquiries, and processing orders.",
+                "contents": [
+                    "Assisting in creating and maintaining product listings on e-commerce platforms like Shopee, Lazada, and Rakuten",
+                    "Responding to customer inquiries promptly and professionally via email, chat, or phone",
+                    "Processing orders accurately and ensuring timely delivery to customers",
+                    "Monitoring and analyzing sales data to identify trends and improve performance",
+                    "Providing support to the e-commerce team with various administrative tasks"
+                ],
+                "qualifications": [
+                    "High school diploma or equivalent",
+                    "Strong organizational and time management skills",
+                    "Excellent written and verbal communication skills in English and Mandarin",
+                    "Proficiency in Microsoft Office Suite and e-commerce platforms",
+                    "Ability to work independently and as part of a team"
+                ],
+                "benefits": [
+                    "Competitive salary and benefits package",
+                    "Opportunity to gain experience in the exciting e-commerce industry",
+                    "Chance to contribute to the growth and success of a dynamic company",
+                    "Room for professional development and advancement"
+                ]
+            }
+        }
+    ]
+}

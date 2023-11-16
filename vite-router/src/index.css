@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC&display=swap');
+/* font-family: 'Noto Sans TC', sans-serif; */
+
+/* :root 和 * 的差別在，前者為全局設置，後者為所有元素 */
+/* :root 因為是偽類，所以優先度高於 html */
+
+:root {
+    --primary-color: #00ADB5; /* Teal */
+    --secondary-color: #222831;   /* black */
+}
+
+* {
+    margin: 0;
+    color: #EEEEEE   /* Grey */
+}
+
+body {
+    margin: 0;
+    padding: 2rem;
+    font-family: 'Noto Sans TC', sans-serif;
+    background: var(--secondary-color)
+}
+
+p {
+    margin: 1.2rem 0;
+}
+
+button {
+    border: 0;
+    padding: .7rem;
+    border-radius: .5em;
+    background-color: var(--primary-color);
+    cursor: pointer;
+}
+
+/* navbar */
+header nav {
+    display: flex;
+    gap: 1rem;
+    justify-content: end;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+header nav h1 {
+    margin-right: auto;
+    border-bottom: 3px solid var(--primary-color);
+}
+
+header nav a {
+    text-decoration: none;
+    padding: .5rem;
+    border-radius: .5rem;
+}
+
+header nav a.active {
+    background-color: var(--primary-color);
+}
+
+/* page content */
+main {
+    max-width: 1200px;
+    margin: 3rem auto;
+}
+
+h2 {
+    margin-bottom: 1rem;
+}
+
+/* help layout */
+.help-layout nav {
+    display: flex;
+    justify-content: center;
+    gap: 4rem;
+    margin: 2rem 0;
+}
+
+.help-layout nav a {
+    margin-top: 2rem;
+    padding: .8rem;
+    border: .1rem solid white;
+    border-radius: .4rem;
+    text-decoration: none;
+}
+
+.help-layout nav a:hover {
+    border-color: var(--primary-color);
+}
+
+.help-layout nav a.active {
+    background: var(--primary-color);
+}
+
+/* faq */
+.faq .question {
+    background: rgba(0,0,0,0.2);
+    padding: .5rem 1rem;
+    border-radius: .5rem;
+    margin: 1rem 0;
+}
+
+/* contact form */
+form {
+    margin-top: 2rem;
+}
+
+form input, form label span, form textarea {
+    display: block;
+}
+
+form input, form textarea {
+    margin-bottom: 1.5rem;
+    padding: .5rem;
+    border-radius: .2rem;
+    border: 0;
+    width: 300px;
+    color: var(--secondary-color);
+}
+
+form label span {
+    margin-bottom: .5rem;
+}
+
+/* careers list */
+.careers > a {
+    display: block;
+    background: rgba(0,0,0,0.2);
+    padding: .3rem 0 .3rem 1rem;
+    border-radius: .5rem;
+    margin: 1rem 0;
+    text-decoration: none;
+}
+
+.careers > a:first-child {
+    margin-top: 4rem;
+}
+
+.careers > a:hover p {
+    color: var(--primary-color);
+}
+
+.careers > a p:last-child {
+    font-size: .8rem;
+    color: #bbb;
+}
+
+/* careers details */
+.career-details {
+    background: rgba(0,0,0,0.2);
+    padding: 1.5rem;
+    border-radius: .5rem;
+    margin: 4rem 0;
+}
+
+.career-details h4 {
+    padding: .5rem .5rem;
+}
+
+/* breadcrumbs */
+.breadcrumbs {
+    max-width: 1200px;
+    margin: 1rem auto;
+}
+
+.breadcrumbs > * {
+    display: inline-block;
+    margin-right: .5rem;
+}
+
+.breadcrumbs .crumb:after {
+    content: '>';
+    margin-left: .5rem;
+}
+
+.breadcrumbs .crumb:last-child:after {
+    display: none;
+}
+
+.breadcrumbs .crumb a {
+    color: #ddd;
+}
