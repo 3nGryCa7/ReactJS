@@ -1,8 +1,34 @@
-# React + Vite
+# Vite Router
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Setup
 
-Currently, two official plugins are available:
+Global setup:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+In order to fetch `career.json` (career page), you need to install [json-server](https://www.npmjs.com/package/json-server):
+
+```bash
+npm install -g json-server
+```
+
+Inside the project directory, run the following commands:
+
+```bash
+npm install
+npm i react-router-dom
+
+# Start the json-server
+json-server -p 4000 -w ./data/careers.json
+# Start the dev server
+npm run dev
+```
+
+## Preview
+
+### Home Page
+![Home Page](public/images/home.png)
+
+### Career Page
+![Career Page](public/images/career-slot.png)
+
+### Support Page
+![Support Page](public/images/faq.png)
