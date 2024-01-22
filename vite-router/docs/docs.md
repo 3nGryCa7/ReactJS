@@ -1,11 +1,14 @@
+# BrowserRouter and RouterProvider
+
 Intro to components in 'react-router-dom':
-    BroserRoute: 使用其中的路由器組件
-    Routes: 路由組件
-    Route: 單一路由組件
-        >> Routes 和 Route 用來實際設置路由
-    Link: 連結不同頁面
+- BroserRoute: 使用其中的路由器組件
+- Routes: 路由組件
+- Route: 單一路由組件
+    > Routes 和 Route 用來實際設置路由
+- Link: 連結不同頁面
 
 Source code be like this:
+```javascript
     <BrowserRouter>
         <header>
             <nav>
@@ -22,10 +25,15 @@ Source code be like this:
             </Routes>
         </main>
     </BrowserRouter>
+```
+
 
 Unfortunately, it's old version.
-Now We can use <RouterProvider>,
-    First createrowserRouter() as constant router,
-    then pass it to <RouterProvider router={ router } />
 
-    Note: In createRoutesFromElements(), couldn't have <Routes>, but only <Route>
+Now We can use `<RouterProvider>`,
+
+First `createrowserRouter()` as constant router,
+    
+then pass it to `<RouterProvider router={ router } />`
+
+Note: In `createRoutesFromElements()`, couldn't have `<Routes>`, but only `<Route>`
